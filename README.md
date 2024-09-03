@@ -17,5 +17,5 @@ During the completion of my prototype, I gained competency in:
 - Database Security
 - Microsoft Visual Basic
 
-[Report File](https://github.com/nathansamuel92/HSC-IPT-MP/blob/main/Nathan%20Samuel%20-%20IPT%20Major%20Project%20HSC%20.pdf)
+[Report File](https://github.com/nathansamuel92/HSC-IPT-MP/blob/main/Report%20File.pdf)
 </p>
