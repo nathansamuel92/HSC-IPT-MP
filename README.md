@@ -25,9 +25,9 @@ During the completion of my prototype, I gained competency in:
 
 <br>
 
-| <strong>Corentin Customer View</strong> | <strong>Corentin Employee View</strong> |
+| <strong><br>Corentin Customer View<br></br></strong> | <strong><br>Corentin Employee View<br></br></strong> |
 |:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-| <img src="https://i.imgur.com/s9Z8iwU.png" alt="Corentin Customer View" width="475" height="350"> | <img src="https://i.imgur.com/dfiyylj.png" alt="Corentin Employee View" width="475" height="450"> |
+| <img src="https://i.imgur.com/xFkDImO.png" alt="Corentin Customer View" width="525" height="400"> | <img src="https://i.imgur.com/pySuyBT.png" alt="Corentin Employee View" width="475" height="400"> |
 
 <br>
 
