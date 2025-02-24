@@ -3,6 +3,8 @@
 <p>
 Inspired by the challenge, I was sure to bring all my passion to this subject—a full mock systems development life cycle iteration, including an extensive feasibility report and a working system prototype. Throughout this project, I topped my grade with high-distinction marks. A project of such nature required proper planning, which I was able to adhere to and complete this project swiftly.
 
+My choice of information system to revolutionise was a mock company named "Corentin", a small startup, quality basics clothing store based in Sydney, Australia run by James Corentin. The main aim of this business project was to expand Corentin's store operations to integrate an online counterpart for both employees and customers.
+
 Naturally, during the completion of this report, I gained competency in:
 - The Development Life Cycle
 - System Modelling and Diagramming
