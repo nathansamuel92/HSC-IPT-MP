@@ -17,7 +17,19 @@ During the completion of my prototype, I gained competency in:
 - Database Security
 - Microsoft Visual Basic
 
----
+<br>
+
+## Preview of main menu screens (Displays a very limited portion of capabilities)
+
+<br>
+
+| <strong>Corentin Customer View</strong> | <strong>Corentin Employee View</strong> |
+|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+| <img src="https://i.imgur.com/s9Z8iwU.png" alt="Corentin Customer View" width="475" height="350"> | <img src="https://i.imgur.com/dfiyylj.png" alt="Corentin Employee View" width="475" height="450"> |
+
+<br>
+
+## Direct Access to project files
 
 | Report File | Project File |
 |----------------------|----------------------|
